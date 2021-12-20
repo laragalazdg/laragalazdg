@@ -12,12 +12,9 @@
 </a>
 <br />
 <br />
-<br />
 <div>
 <img src='https://raw.githubusercontent.com/laragalazdg/laragalazdg/master/portadagithub.png' alt="Lara Galaz">
 </div>
-<br />
-<br />
 <br />
 <!-- **Soy Lara, soy _Diseñadora Gráfica_ y _Community Manager_**  -->
 
@@ -49,6 +46,7 @@
 </div>
 <br />
 <br />
+
 ### Hobbies
 >:books:Novels & poetry | :clapper: movies | :beers:Friends | :writing_hand: Writing | :art: Lettering & illustration | :dancing_women:Tango 
 <!-- - CorelDraw
