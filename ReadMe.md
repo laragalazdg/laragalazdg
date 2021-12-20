@@ -11,7 +11,10 @@
   <img align="left" alt="Lara Galaz | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
 </a>
 <br />
-![Lara Galaz](https://raw.githubusercontent.com/laragalazdg/laragalazdg/master/portadagithub.png)
+<div>
+<img src='https://raw.githubusercontent.com/laragalazdg/laragalazdg/master/portadagithub.png' alt="Lara Galaz">
+</div>
+
 <!-- **Soy Lara, soy _Diseñadora Gráfica_ y _Community Manager_**  -->
 
 >Estudio desarrollo web hace dos años y resulta que me gusta mucho el frontend :star_struck:, por un lado porque cuento con una base de diseño y por el otro lado porque no le encuentro la vuelta al backend y la paso maaaal :tired_face: :no_good: ... (mis respetos si te dedicás al backend :bowing_woman:)
