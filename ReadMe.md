@@ -52,8 +52,8 @@
 <div align="left"><a href='https://cafecito.app/laragalazdg' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_2.png 1x, https://cdn.cafecito.app/imgs/buttons/button_2_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_2_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_2.png' alt='Invitame un café en cafecito.app' /></a></div>
 
 <h1 align='center'><a href="#" type="button">⚡️<i>See More!</i>⚡️</a></h1>
-
-
+<br />
+<br />
 <!-- **Soy Lara, soy _Diseñadora Gráfica_ y _Community Manager_**  -->
 <!-- **I'm Lara, I'm a _Graphic Designer_ and _Community Manager_** -->
 <!-- - CorelDraw
