@@ -12,8 +12,7 @@
 <a href="https://www.instagram.com/laragalaz/">
   <img alt="Lara Galaz | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
 </a></div>
-<br />
-<br />
+<br>
 <div>
 <img src='https://raw.githubusercontent.com/laragalazdg/laragalazdg/master/portadagithub.png' alt="Lara Galaz">
 </div>
