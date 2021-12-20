@@ -5,15 +5,15 @@
         <h1 align='center'>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
         </h1>
     </div>
-    <div align= "right">
+    <div align= "center">
         <a href="https://twitter.com/LaraGalaz">
-        <img alt="Lara Galaz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+        <img alt="Lara Galaz | Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
         </a>
         <a href="https://www.linkedin.com/in/lara-galaz/">
-        <img alt="Lara Galaz | Linkeding" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+        <img alt="Lara Galaz | Linkeding" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
         </a>
         <a href="https://www.instagram.com/laragalaz/">
-        <img alt="Lara Galaz | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
+        <img alt="Lara Galaz | Instagram" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
         </a>
     </div>
 </div>
