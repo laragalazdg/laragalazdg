@@ -31,15 +31,17 @@
 >Hasta el momento tengo conocimientos de las siguientes tecnologías / So far I have knowledge of the following technologies:
 
 <div>
-  <img align="left" alt="Corel Draw" width="22px" src="https://cursos.tienda/wp-content/uploads/2021/04/logo-coreldraw-green-180.png" />
-  <img align="left" alt="Ilustrator" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
-  <img align="left" alt="Premier Pro" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" />
-  <img align="left" alt="PHP" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
-  <img align="left" alt="JavaScript" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
-  <img align="left" alt="Css" width="22px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
-  <img align="left" alt="Git" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
-  <img align="left" alt="Figma" width="22px" src="https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png" />
+  <img align="center" alt="Corel Draw" width="30px" src="https://cursos.tienda/wp-content/uploads/2021/04/logo-coreldraw-green-180.png" />
+  <img align="left" alt="Ilustrator" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/2101px-Adobe_Illustrator_CC_icon.svg.png" />
+  <img align="left" alt="Premier Pro" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/1200px-Adobe_Premiere_Pro_CC_icon.svg.png" />
+  <img align="left" alt="PHP" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />
+  <img align="left" alt="JavaScript" width="30px" src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" />
+  <img align="left" alt="Css" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png" />
+  <img align="left" alt="Git" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
+  <img align="left" alt="Figma" width="30px" src="https://images.ctfassets.net/1khq4uysbvty/2MbBsf9yEw40SMw6gK0Mmg/35f39d41f167b6615bd80517b4b67bcd/1_6XgfDCVn81AYX68Xvd2I-g_2x.png" />
 </div>
+<br />
+<br />
 <!-- - CorelDraw
 - Illustrator
 - Photoshop
