@@ -31,7 +31,7 @@
 - Paquete office
 - Figma
 
->Sobre "habilidades blandas", si bien no tengo mucha experiencia trabajando en equipos, creo que...
+<!-- >Sobre "habilidades blandas", si bien no tengo mucha experiencia trabajando en equipos, creo que...
 
 >On "soft skills", I haven't had a lot of experience working in teams, but I think...
 
@@ -41,7 +41,7 @@
 - Liderazgo/ Leadership
 - Responsable/ Responsable
 - Comprometida/ Engaged
-- Buena comunicación/ Good communication
+- Buena comunicación/ Good communication -->
 
 ### Hobbies
 >:eyeglasses:Leer novelas y poesía/ Read novels and poetry
