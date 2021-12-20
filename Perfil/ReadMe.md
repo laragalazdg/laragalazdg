@@ -32,6 +32,7 @@
 - Figma
 
 >Sobre "habilidades blandas", si bien no tengo mucha experiencia trabajando en equipos, creo que...
+
 >On "soft skills", I haven't had a lot of experience working in teams, but I think...
 
 - Inglés intermedio/ Intermediate English
