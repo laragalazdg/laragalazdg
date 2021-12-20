@@ -8,7 +8,7 @@
   <img align="left" alt="Lara Galaz | Linkeding" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/laragalaz/">
-  <img align="left" alt="Lara Galaz | Instagram" width="22px" src="https://es.wikipedia.org/wiki/Archivo:Instagram.svg" />
+  <img align="left" alt="Lara Galaz | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
 </a>
 <br />
 
