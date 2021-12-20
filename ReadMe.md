@@ -49,9 +49,10 @@
 >:books:Novels & poetry | :clapper: movies | :beers:Friends | :writing_hand: Writing | :art: Lettering & illustration | :dancing_women:Tango 
 
 ### If u want <img src="https://media1.giphy.com/media/XkHwQ0L0CC9VcUqB8m/giphy_s.gif?cid=790b761191daef28519e7b1576371e9f6ea09b0496c5ddd8&rid=giphy_s.gif&ct=s" width="25px">
-<div align="center"><a href='https://cafecito.app/laragalazdg' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_2.png 1x, https://cdn.cafecito.app/imgs/buttons/button_2_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_2_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_2.png' alt='Invitame un café en cafecito.app' /></a></div>
+<div align="left"><a href='https://cafecito.app/laragalazdg' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_2.png 1x, https://cdn.cafecito.app/imgs/buttons/button_2_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_2_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_2.png' alt='Invitame un café en cafecito.app' /></a></div>
 
-<h1 align='center'><a href="#">⚡️<i>See More!</i>⚡️</a></h1>
+<h1 align='center'><button type="button" src="#">⚡️<i>See More!</i>⚡️</button></h1>
+
 
 <!-- **Soy Lara, soy _Diseñadora Gráfica_ y _Community Manager_**  -->
 <!-- **I'm Lara, I'm a _Graphic Designer_ and _Community Manager_** -->
