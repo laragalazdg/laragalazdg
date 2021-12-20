@@ -42,3 +42,18 @@
 - Responsable/ Responsable
 - Comprometida/ Engaged
 - Buena comunicación/ Good communication
+
+### Hobbies
+>:eyeglasses:Leer novelas y poesía/ Read novels and poetry
+>:clapper:Mirar películas/ Watch movies
+>:beers:Reunirme con amigos/ Meet with friends
+>:writing_hand:Aprender a escribir/ Learn to write
+>:art:Lettering e ilustración/ Lettering and illustration
+>:dancing_women:Tango y Folklore/ Tango and Folklore
+
+
+### Redes Sociales/ Social Networks
+
+>:email: [Email lara.galaz.dg@gmail.com](lara.galaz.dg@gmail.com)
+>:bird: [Twitter twitter.com/LaraGalaz](https://twitter.com/LaraGalaz)
+>:camera: [Instagram instagram.com/laragalaz/](https://www.instagram.com/laragalaz/)
