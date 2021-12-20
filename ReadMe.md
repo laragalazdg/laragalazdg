@@ -56,7 +56,7 @@
 <br />
 <br />
 <div>
-<h1 align='center'><a href="#" type="button">⚡️<i>See More!</i>⚡️</a></h1>
+<h1 align='center'><a href="#" type="button">⚡️<i>See More!</i>⚡️</a></h1><br><br>
 </div>
 
 </div>
