@@ -49,12 +49,22 @@
 ### Hobbies
 >:books:Novels & poetry | :clapper: movies | :beers:Friends | :writing_hand: Writing | :art: Lettering & illustration | :dancing_women:Tango 
 
-### If u want <img src="https://media1.giphy.com/media/XkHwQ0L0CC9VcUqB8m/giphy_s.gif?cid=790b761191daef28519e7b1576371e9f6ea09b0496c5ddd8&rid=giphy_s.gif&ct=s" width="25px">
-<div align="left"><a href='https://cafecito.app/laragalazdg' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_2.png 1x, https://cdn.cafecito.app/imgs/buttons/button_2_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_2_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_2.png' alt='Invitame un café en cafecito.app' /></a></div>
-
+<div align="center">
+<div>
+<h1 align='center'>If u want <img src="https://media1.giphy.com/media/XkHwQ0L0CC9VcUqB8m/giphy_s.gif?cid=790b761191daef28519e7b1576371e9f6ea09b0496c5ddd8&rid=giphy_s.gif&ct=s" width="25px">
+<div align="left"><a href='https://cafecito.app/laragalazdg' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_2.png 1x, https://cdn.cafecito.app/imgs/buttons/button_2_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_2_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_2.png' alt='Invitame un café en cafecito.app' /></a></div></div>
+<br />
+<br />
+<div>
 <h1 align='center'><a href="#" type="button">⚡️<i>See More!</i>⚡️</a></h1>
-<br />
-<br />
+</div>
+
+</div>
+<!-- ### If u want <img src="https://media1.giphy.com/media/XkHwQ0L0CC9VcUqB8m/giphy_s.gif?cid=790b761191daef28519e7b1576371e9f6ea09b0496c5ddd8&rid=giphy_s.gif&ct=s" width="25px"> -->
+
+
+
+
 <!-- **Soy Lara, soy _Diseñadora Gráfica_ y _Community Manager_**  -->
 <!-- **I'm Lara, I'm a _Graphic Designer_ and _Community Manager_** -->
 <!-- - CorelDraw
