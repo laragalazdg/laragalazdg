@@ -8,8 +8,9 @@
   <img align="left" alt="Lara Galaz | Linkeding" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/laragalaz/">
-  <img align="left" alt="Lara Galaz | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+  <img align="left" alt="Lara Galaz | Instagram" width="22px" src="https://es.wikipedia.org/wiki/Archivo:Instagram.svg" />
 </a>
+<br />
 
 **Soy Lara, soy _Diseñadora Gráfica_ y _Community Manager_** 
 
@@ -53,7 +54,7 @@
 - Buena comunicación/ Good communication -->
 
 ### Hobbies
->:eyeglasses:Novels & poetry | clapper: movies | :beers:Friends | :writing_hand: Writing | :art: Lettering & illustration | :dancing_women:Tango 
+>:eyeglasses:Novels & poetry | :clapper: movies | :beers:Friends | :writing_hand: Writing | :art: Lettering & illustration | :dancing_women:Tango 
 
 
 <!-- ### Redes Sociales/ Social Networks
