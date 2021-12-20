@@ -11,10 +11,14 @@
   <img align="left" alt="Lara Galaz | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
 </a>
 <br />
+<br />
+<br />
 <div>
 <img src='https://raw.githubusercontent.com/laragalazdg/laragalazdg/master/portadagithub.png' alt="Lara Galaz">
 </div>
-
+<br />
+<br />
+<br />
 <!-- **Soy Lara, soy _Diseñadora Gráfica_ y _Community Manager_**  -->
 
 >Estudio desarrollo web hace dos años y resulta que me gusta mucho el frontend :star_struck:, por un lado porque cuento con una base de diseño y por el otro lado porque no le encuentro la vuelta al backend y la paso maaaal :tired_face: :no_good: ... (mis respetos si te dedicás al backend :bowing_woman:)
@@ -45,6 +49,8 @@
 </div>
 <br />
 <br />
+### Hobbies
+>:books:Novels & poetry | :clapper: movies | :beers:Friends | :writing_hand: Writing | :art: Lettering & illustration | :dancing_women:Tango 
 <!-- - CorelDraw
 - Illustrator
 - Photoshop
@@ -67,8 +73,7 @@
 - Comprometida/ Engaged
 - Buena comunicación/ Good communication -->
 
-### Hobbies
->:books:Novels & poetry | :clapper: movies | :beers:Friends | :writing_hand: Writing | :art: Lettering & illustration | :dancing_women:Tango 
+
 
 
 <!-- ### Redes Sociales/ Social Networks
