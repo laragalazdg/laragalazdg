@@ -1,5 +1,6 @@
-# Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
+<h1 align='center'>Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+</h1>
+<!-- # Hola!  -->
 <a href="https://twitter.com/LaraGalaz">
   <img align="left" alt="Lara Galaz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
