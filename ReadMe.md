@@ -3,14 +3,14 @@
 <!-- # Hola!  -->
 <div align="center">
 <a href="https://twitter.com/LaraGalaz">
-  <img align="left" alt="Lara Galaz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img alt="Lara Galaz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/lara-galaz/">
-  <img align="left" alt="Lara Galaz | Linkeding" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+  <img alt="Lara Galaz | Linkeding" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <a href="https://www.instagram.com/laragalaz/">
-  <img align="left" alt="Lara Galaz | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
+  <img alt="Lara Galaz | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Instagram.svg" />
 </a></div>
 <br />
 <br />
