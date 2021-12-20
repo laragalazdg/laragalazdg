@@ -56,52 +56,14 @@
 >:books:Novels & poetry | :clapper: movies | :beers:Friends | :writing_hand: Writing | :art: Lettering & illustration | :dancing_women:Tango 
 
 <div align="center">
-<div>
-<h1 align='center'>If u want <img src="https://media1.giphy.com/media/XkHwQ0L0CC9VcUqB8m/giphy_s.gif?cid=790b761191daef28519e7b1576371e9f6ea09b0496c5ddd8&rid=giphy_s.gif&ct=s" width="30px"><br><br>
-<div align="center"><a href='https://cafecito.app/laragalazdg' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_2.png 1x, https://cdn.cafecito.app/imgs/buttons/button_2_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_2_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_2.png' alt='Invitame un café en cafecito.app' /></a></div></div>
-<br />
-<br />
-<div>
-<h1 align='center'><a href="#" type="button">⚡️<i>See More!</i>⚡️</a></h1><br><br>
-</div>
+    <div>
+        <h1 align='center'>If u want <img src="https://media1.giphy.com/media/XkHwQ0L0CC9VcUqB8m/giphy_s.gif?cid=790b761191daef28519e7b1576371e9f6ea09b0496c5ddd8&rid=giphy_s.gif&ct=s" width="30px"><br><br>
+        <div align="center"><a href='https://cafecito.app/laragalazdg' rel='noopener' target='_blank'><img srcset='https://cdn.cafecito.app/imgs/buttons/button_2.png 1x, https://cdn.cafecito.app/imgs/buttons/button_2_2x.png 2x, https://cdn.cafecito.app/imgs/buttons/button_2_3.75x.png 3.75x' src='https://cdn.cafecito.app/imgs/buttons/button_2.png' alt='Invitame un café en cafecito.app' /></a></div>
+    </div>
+    <br />
+    <br />
+    <div>
+        <h1 align='center'><a href="#" type="button">⚡️<i>See More!</i>⚡️</a></h1><br><br>
+    </div>
 
 </div>
-<!-- ### If u want <img src="https://media1.giphy.com/media/XkHwQ0L0CC9VcUqB8m/giphy_s.gif?cid=790b761191daef28519e7b1576371e9f6ea09b0496c5ddd8&rid=giphy_s.gif&ct=s" width="25px"> -->
-
-
-
-
-<!-- **Soy Lara, soy _Diseñadora Gráfica_ y _Community Manager_**  -->
-<!-- **I'm Lara, I'm a _Graphic Designer_ and _Community Manager_** -->
-<!-- - CorelDraw
-- Illustrator
-- Photoshop
-- Premiere Pro
-- PHP, JavaScript , CSS
-- Java
-- GIT /GITHUB
-- Paquete office
-- Figma -->
-
-<!-- >Sobre "habilidades blandas", si bien no tengo mucha experiencia trabajando en equipos, creo que...
-
->On "soft skills", I haven't had a lot of experience working in teams, but I think...
-
-- Inglés intermedio/ Intermediate English
-- Iniciativa/ Initiative
-- Predisposición/ Predisposition
-- Liderazgo/ Leadership
-- Responsable/ Responsable
-- Comprometida/ Engaged
-- Buena comunicación/ Good communication -->
-
-
-
-
-<!-- ### Redes Sociales/ Social Networks
-
->:email: [Email lara.galaz.dg@gmail.com](lara.galaz.dg@gmail.com)
-
->:bird: [Twitter twitter.com/LaraGalaz](https://twitter.com/LaraGalaz)
-
->:camera: [Instagram instagram.com/laragalaz/](https://www.instagram.com/laragalaz/) -->
