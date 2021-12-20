@@ -1,4 +1,15 @@
-# Hola!:wave:
+# Hola! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<a href="https://twitter.com/LaraGalaz">
+  <img align="left" alt="Lara Galaz | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.linkedin.com/in/lara-galaz/">
+  <img align="left" alt="Lara Galaz | Linkeding" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/laragalaz/">
+  <img align="left" alt="Lara Galaz | Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
 
 **Soy Lara, soy _Diseñadora Gráfica_ y _Community Manager_** 
 
@@ -6,8 +17,6 @@
 
 >Utilizaré github para mostrar mis avances e investigaciones en frontend, diseño gráfico y redes sociales :woman_technologist: 
 >Te agradeceré un montón si me dejas tu feedback o algún comentario o crítica, creo que la mirada del otro es muy útil para mejorar :dizzy: 
-
-# Hi! :wave:
 
 **I'm Lara, I'm a _Graphic Designer_ and _Community Manager_**
 
@@ -44,23 +53,13 @@
 - Buena comunicación/ Good communication -->
 
 ### Hobbies
->:eyeglasses:Leer novelas y poesía/ Read novels and poetry
-
->:clapper:Mirar películas/ Watch movies
-
->:beers:Reunirme con amigos/ Meet with friends
-
->:writing_hand:Aprender a escribir/ Learn to write
-
->:art:Lettering e ilustración/ Lettering and illustration
-
->:dancing_women:Tango y Folklore/ Tango and Folklore
+>:eyeglasses:Novels & poetry | clapper: movies | :beers:Friends | :writing_hand: Writing | :art: Lettering & illustration | :dancing_women:Tango 
 
 
-### Redes Sociales/ Social Networks
+<!-- ### Redes Sociales/ Social Networks
 
 >:email: [Email lara.galaz.dg@gmail.com](lara.galaz.dg@gmail.com)
 
 >:bird: [Twitter twitter.com/LaraGalaz](https://twitter.com/LaraGalaz)
 
->:camera: [Instagram instagram.com/laragalaz/](https://www.instagram.com/laragalaz/)
+>:camera: [Instagram instagram.com/laragalaz/](https://www.instagram.com/laragalaz/) -->
