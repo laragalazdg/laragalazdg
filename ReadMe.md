@@ -27,11 +27,13 @@
 
 >:sassy_woman:Soy diseñadora grafica desde hace cuatro años, disfruto de la comunicación visual, generar piezas visuales que ayuden a crear identidades corporativas y transmitir ideas! 
 Durante el 2020 comencé a gestionar redes sociales	:selfie:, teniendo como herramienta lo que me gusta hacer.
-Además, Estudio desarrollo web hace dos años y resulta que me gusta mucho el desarrollo frontend :star_struck:
+
+>Además, Estudio desarrollo web hace dos años y resulta que me gusta mucho el desarrollo frontend :star_struck:
 
 >:sassy_woman:I have been a graphic designer for four years, I enjoy visual communication, generating visual pieces that help create corporate identities and transmit ideas! 
 During 2020 I started managing social networks	:selfie:, having as a tool what I like to do.
-Also, I have been studying web development for two years and it turns out that I really like frontend development :star_struck:
+
+>Also, I have been studying web development for two years and it turns out that I really like frontend development :star_struck:
 
 >Utilizaré github para mostrar mis avances e investigaciones en frontend, diseño gráfico y redes sociales :woman_technologist: 
 >Te agradeceré un montón si me dejas tu feedback o algún comentario o crítica, creo que la mirada del otro es muy útil para mejorar :dizzy: 
