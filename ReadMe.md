@@ -42,7 +42,9 @@ During 2020 I started managing social networks	:selfie:, having as a tool what I
 >I will appreciate a lot if you leave me your feedback or any comment, I think that the other's gaze is very useful to improve :dizzy: 
 
 ### Habilidades/Skills 
->Hasta el momento tengo conocimientos de las siguientes tecnologías / So far I have knowledge of the following technologies:
+>Hasta el momento tengo conocimientos de las siguientes tecnologías 
+
+>So far I have knowledge of the following technologies:
 
 <div align="center">
   <img alt="Corel Draw" width="40px" src="https://cursos.tienda/wp-content/uploads/2021/04/logo-coreldraw-green-180.png" />
