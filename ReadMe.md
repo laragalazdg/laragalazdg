@@ -30,13 +30,13 @@ Durante el 2020 comencé a gestionar redes sociales	:selfie:, teniendo como herr
 
 >Además, Estudio desarrollo web hace dos años y resulta que me gusta mucho el desarrollo frontend :star_struck:
 
+>Utilizaré github para mostrar mis avances e investigaciones en frontend, diseño gráfico y redes sociales :woman_technologist: 
+>Te agradeceré un montón si me dejas tu feedback o algún comentario o crítica, creo que la mirada del otro es muy útil para mejorar :dizzy: 
+
 >:sassy_woman:I have been a graphic designer for four years, I enjoy visual communication, generating visual pieces that help create corporate identities and transmit ideas! 
 During 2020 I started managing social networks	:selfie:, having as a tool what I like to do.
 
 >Also, I have been studying web development for two years and it turns out that I really like frontend development :star_struck:
-
->Utilizaré github para mostrar mis avances e investigaciones en frontend, diseño gráfico y redes sociales :woman_technologist: 
->Te agradeceré un montón si me dejas tu feedback o algún comentario o crítica, creo que la mirada del otro es muy útil para mejorar :dizzy: 
 
 >I will use github to show my advances and research in frontend, graphic design and social networks :woman_technologist: 
 >I will appreciate a lot if you leave me your feedback or any comment, I think that the other's gaze is very useful to improve :dizzy: 
